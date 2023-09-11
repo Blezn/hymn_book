@@ -84,7 +84,7 @@ class HymnContentScreen extends GetWidget<HymnContentController> {
                                                   width: getHorizontalSize(301),
                                                   margin: getMargin(right: 25),
                                                   child: Text(
-                                                      "msg_O_lORD_MY_GOD_1".tr,
+                                                      "O_lORD_MY_GOD_1".tr,
                                                       maxLines: null,
                                                       textAlign: TextAlign.left,
                                                       style: AppStyle
@@ -96,7 +96,7 @@ class HymnContentScreen extends GetWidget<HymnContentController> {
                                                       top: 13,
                                                       right: 35),
                                                   child: Text(
-                                                      "msg_O_lORD_MY_GOD".tr,
+                                                      "O_lORD_MY_GOD".tr,
                                                       maxLines: null,
                                                       textAlign: TextAlign.left,
                                                       style: AppStyle
@@ -106,7 +106,7 @@ class HymnContentScreen extends GetWidget<HymnContentController> {
                                                   margin: getMargin(
                                                       left: 1, top: 13),
                                                   child: Text(
-                                                      "msg_O_lORD_MY_GOD_2".tr,
+                                                      "O_lORD_MY_GOD_2".tr,
                                                       maxLines: null,
                                                       textAlign: TextAlign.left,
                                                       style: AppStyle
@@ -118,7 +118,7 @@ class HymnContentScreen extends GetWidget<HymnContentController> {
                                                       top: 14,
                                                       right: 45),
                                                   child: Text(
-                                                      "msg_O_lORD_MY_GOD_3".tr,
+                                                      "O_lORD_MY_GOD_3".tr,
                                                       maxLines: null,
                                                       textAlign: TextAlign.left,
                                                       style: AppStyle
@@ -128,7 +128,7 @@ class HymnContentScreen extends GetWidget<HymnContentController> {
                           Container(
                               width: getHorizontalSize(279),
                               margin: getMargin(left: 24, top: 13, right: 86),
-                              child: Text("msg_O_lORD_MY_GOD_4".tr,
+                              child: Text("O_lORD_MY_GOD_4".tr,
                                   maxLines: null,
                                   textAlign: TextAlign.left,
                                   style: AppStyle.txtMontserratRomanRegular16)),

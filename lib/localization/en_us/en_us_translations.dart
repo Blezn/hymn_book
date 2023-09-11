@@ -6,6 +6,8 @@ final Map<String, String> enUs = {
   "lbl_onboarding_one": "ONBOARDING One",
   "lbl_back": "Back",
 
+// English............................................................................................
+
   "msg_O_lORD_MY_GOD": "O Lord my God!...",
   "O_lORD_MY_GOD_1": '1. O Lord my God! When I in awesome wonder,\n'
                     'Consider all the works Thy hands hath made\n'
@@ -364,7 +366,139 @@ final Map<String, String> enUs = {
                     'His praises proclaiming in song;\n'
                     'With harp, and with organ and voice\n'
                     'The loud Hallelujah prolong',
+      
+  "msg_To_God_be_the_glory": "To God be the glory great things...",
+  "To_God_be_the_glory_1": '1.	To God be the glory great things He hath done\n'
+                    'So loved He that world that He gave us His Son,\n'
+                    'Who yielded His life an atonement for sin\n'
+                    'And opened the life gate that all may go in',
 
+  "To_God_be_the_glory": 'Praise the Lord, Praise the Lord,\n'
+                    'Let the earth hear His voice\n'
+                    'Praise the Lord, Praise the Lord,\n'
+                    'Let the people rejoice\n'
+                    'O come to the Father through Jesus the Son\n'
+                    'And give Him the glory, great thing He hath done',
+
+  "To_God_be_the_glory_2": '2.	O perfect redemption the purchase of blood\n'
+                    'To every believer the promise of God\n'
+                    'The vilest offender, who truly believes\n'
+                    'That moment from Jesus a pardon receives',
+
+  "To_God_be_the_glory_3": '3.	Great things He hath taught us,\n'
+                    'Great things He hath done\n'
+                    'And great our rejoicing through Jesus the Son;\n'
+                    'But purer, and higher and greater will be,\n'
+                    'Our wonders, our transport when Jesus we see.',
+// Yoruba...............................................................................
+
+"msg_Olorun_mi_’gbati_mo_fi_’yanu_wo": "Olorun mi ’gbati mo fi ’yanu wo...",
+"Olorun_mi_’gbati_mo_fi_’yanu_wo_1": '1.	Olorun mi ’gbati mo fi ’yanu wo\n'
+                    'Awon ise ti owo Re ti se!\n'
+                    'Mo ri ’rawo, mo gb’ ohun ara ti n san\n'
+                    'Agbara Re tan ka gbogbo aye\n',
+
+ "Olorun_mi_’gbati_mo_fi_’yanu_wo":  'Okan mi n korin s’ Olugbala mi\n'
+                    'Alagbara l’ Olorun mi!\n'
+                    'Okan mi korin s’ Olugbala mi\n'
+                    'Alagbara l’ Olorun mi.\n',  
+
+"Olorun_mi_’gbati_mo_fi_’yanu_wo_2": '2.	’Gbati mo rin kaakiri ninu igbo,\n'
+                    'Mo gbo t’ awon eye n korin didun\n'
+                    'Gba mo wo ’le lat’ ori oke giga,\n'
+                    'Mo r’ agbara odo at’ afefe.\n',
+
+"Olorun_mi_’gbati_mo_fi_’yanu_wo_3": '3.	‘Gba ti mo ri bi ’Wo ti fi Omo Re,\n'
+                    'Sile lati ku ko tile yemi\n'
+                    'Mo ro iku Re lori agbelebu,\n'
+                    'Eje Re lo fi ko ese mi lo.\n',
+
+
+"Olorun_mi_’gbati_mo_fi_’yanu_wo_4": '4.	’Gba Kristi yoo de pelu orin ’segun,\n'
+                    'Wa mu mi lo ayo yoo gb’ okan mi!\n'
+                    '’Gba naa n o juba, n o f’irele wole,\n'
+                    'N o kede “Titobi l’ Olorun mi!”\n',
+
+"msg_Fi_iyin_fun_Jesu_Olurapada_wa!": '"Fi_iyin_fun_Jesu_Olurapada_wa!...',
+"Fi_iyin_fun_Jesu_Olurapada_wa!_1": '1.	Fi iyin fun Jesu Olurapada wa!\n'
+                    'Ki aye k’ okiki ife nla Re;\n'
+                    'Fi iyin fun eyin angeli ologo\n'
+                    'F’ola at’ ogo fun oruko Re;\n'
+                    'B’ Olus’agutan, Jesu yoo to omo Re;\n'
+                    'Apa Re l’ O n gbe won le lojojo;\n'
+                    'Eyin eniyan mimo ti n gb’  oke Sion’\n'
+                    'Fi iyin fun pelu orin ayo.\n',
+
+"Fi_iyin_fun_Jesu_Olurapada_wa!_2": '2.	Fi iyin fun Jesu Olurapada wa!\n'
+                      'Fun wa O t’  eje Re sile O ku;\n'
+                      'Oun ni Apata ati ’reti ’gbala wa,\n'
+                      'Yin Jesu ti a kan m’ agbelebu;\n'
+                      'Olugbala t’ O f’arada irora n la\n'
+                      'Ti a fi ade egun de lori;\n'
+                      'Eni ti a pa nitori awa eda\n'
+                      'Oba ogo n j’ Oba titi laelae.\n',
+
+"Fi_iyin_fun_Jesu_Olurapada_wa!_3":  '3.	Fi iyin fun Jesu Olurapada wa\n'
+                      'Ki ariwo iyin gba orun kan,\n'
+                      'Jesu Oluwa n j’ Oba lae ati laelae\n'
+                      'Se l’ Oba gbogb’ eyin alagbara,\n'
+                      'A segun iku: fi ayo ro’ hin na ka,\n'
+                      'Isegun re ha da isa oku?\n'
+                      'Jesu ye ko tun si wahala fun wa mo!\n'
+                      'To ri O l’ agbara lati gbala.\n',
+
+"msg_Mimo_Mimo_Mimo!_Oludumare!": 'Mimo, Mimo, Mimo! Oludumare!...',
+"Mimo_Mimo_Mimo!_Oludumare!_1": '1.	Mimo, Mimo, Mimo! Oludumare!\n'
+                    'Ni kutukutu n’ Iwo o gbo orin wa;\n'
+                    'Mimo, Mimo, Mimo! Oniyonu julo!\n'
+                    'Ologo meta, lae Olubukun\n',
+
+"Mimo_Mimo_Mimo!_Oludumare!_2":  '2.	Mimo, Mimo, Mimo! Awon mimo nyin O\n'
+                      'Won n fi ade wura won lele yi te ka;\n'
+                      'Kerubu, Serafu, n wole niwaju Re\n'
+                      '’Wo t’ O ti wa, t’ O si wa titi lae.\n',
+
+"Mimo_Mimo_Mimo!_Oludumare!_3":  '3.	Mimo, Mimo, Mimo! b’ okunkun pa O mo\n'
+                      'Bi oju elese ko le ri ogo Re;\n'
+                      'Iwo nikan l’ O mo, ko tun si elomi’\n'
+                      'Pipe ’nu agbara ati n’ ife.\n',
+
+"Mimo_Mimo_Mimo!_Oludumare!_4":'4.	Mimo, Mimo, Mimo! Olodumare\n'
+                    'Gbogbo ise Re n’ ile l’ oke lo n yin O\n'
+                    'Mimo, Mimo, Mimo! Oniyonu julo!\n'
+                    'Ologo meta, lae Olubukun.\n',
+
+"msg_E_wole_f’_Oba_Ologo_julo": 'E wole f’ Oba; Ologo julo...',
+"E_wole_f’_Oba_Ologo_julo_1": '1.	E wole f’ Oba; Ologo julo,\n'
+                    'E korin ipa ati ife Re,\n'
+                    'Alabo wa ni at’ Eni igbani,\n'
+                    'O ngbe ’nu ogo Eleru ni iyin.\n',
+
+"E_wole_f’_Oba_Ologo_julo_2":  '2.	E so t’ ipa Re, e so t’ ore Re\n'
+                      '’Mole l’ aso Re, gobi Re orun,\n'
+                      'Ara ti n san ni keke ’binu Re je\n'
+                      'Ipa ona Re ni a ko sile mo.\n',
+
+"E_wole_f’_Oba_Ologo_julo_3": '3.	Aye yi pelu ekun ’yanu Re\n'
+                      'Olorun agbara Re l’ o da won\n'
+                      'O fi idi re mule, ko si le yi\n'
+                      'O si f’ okun se aso igunwa Re\n',
+
+"E_wole_f’_Oba_Ologo_julo_4": '4.	Enu ha le so ti itoju Re\n'
+                    'Ninu afefe, ninu imole;\n'
+                    'Itoju Re wan nin’ odo ti o n san\n'
+                    'O si wa ninu iri ati ojo.\n',
+
+"E_wole_f’_Oba_Ologo_julo_5": '5.	Awa erupe, aw’ alailera\n'
+                    '’Wo l’ agbekele, O ki o da ni,\n'
+                    'Anu Re rorun, O si le de opin,\n'
+                    'Eleda, Alabo, Olugbala wa.\n',
+
+"E_wole_f’_Oba_Ologo_julo_6": '6.	’Wo Alagbara, Onife julo\n'
+                    'B’ awon Angeli ti n yin O loke\n'
+                    'Be l’ awa eda Re, niwon t’ a le se,\n'
+                    'A o ma juba Re, a o ma yin O.\n',
+                    
   "msg_jesu_orun_ododo": "Jesu, orun ododo,",
   "msg_there_is_sunshine": "There is sunshine in the va...",
   "lbl_english": "English",
